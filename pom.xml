@@ -6,7 +6,11 @@
 
     <groupId>ru.lian.ky.advent.code</groupId>
     <artifactId>advent-of-code-2018</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>day-01-chronal-calibration</module>
+    </modules>
 
-    
+
 </project>
