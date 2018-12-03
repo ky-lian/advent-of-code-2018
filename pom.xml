@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>day-01-chronal-calibration</module>
+        <module>day-02-inventory-management-system</module>
     </modules>
 
 

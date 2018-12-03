@@ -11,10 +11,10 @@ import java.nio.file.Paths;
 import java.util.Objects;
 import java.util.stream.Stream;
 
-public class Calibrator {
+public class CalibratorApp {
 
-    private static final Logger logger = LoggerFactory.getLogger(Calibrator.class);
-    private static final URL INPUT_FILE_URL = Calibrator.class.getClassLoader().getResource("input.txt");
+    private static final Logger logger = LoggerFactory.getLogger(CalibratorApp.class);
+    private static final URL INPUT_FILE_URL = CalibratorApp.class.getClassLoader().getResource("input.txt");
 
     public static void main(String[] args) {
 

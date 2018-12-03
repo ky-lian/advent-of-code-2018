@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>day-01-chronal-calibration</artifactId>
+    <artifactId>day-02-inventory-management-system</artifactId>
 
     <dependencies>
         <dependency>
